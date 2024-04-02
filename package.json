@@ -1,0 +1,27 @@
+{
+  "name": "arrag-segregatorbytype",
+  "version": "1.0.0",
+  "description": "An array Segregator.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ashvin-Manwar/array-segregator.git"
+},
+  "scripts": {
+    "build":"tsup"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "Segregator"
+  ],
+  "author": "Ashvin Manwar",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.3"
+  },
+  "homepage": "https://github.com/Ashvin-Manwar/array-segregator.git"
+}
