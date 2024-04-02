@@ -1,5 +1,5 @@
 {
-  "name": "arrag-segregatorbytype",
+  "name": "array-segregatorbytype",
   "version": "1.0.0",
   "description": "An array Segregator.",
   "main": "./dist/index.js",
